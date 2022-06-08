@@ -8,4 +8,4 @@ hello me!
 hello me!
 hello me!
 hello me!  master test
-hello me!
+hello me! hot-fix test
